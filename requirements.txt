@@ -1,0 +1,2 @@
+git+https://github.com/girishramnani/gmail.git
+git+https://github.com/girishramnani/sendgmail.git
